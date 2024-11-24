@@ -15,3 +15,6 @@ lorem ipsum
 
 ###### Header 6
 lorem ipsum
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
